@@ -1,2 +1,2 @@
 # smartParking
-this is a raspberry application using camera to detect cars  plate  and open the door if the car is saved in the system 
+this is a raspberry application using camera to detect cars  plates  and opens the door  using a servo motor  if the car is saved in the system  , to detect cars distance between the door  an ultrasound module is required .
